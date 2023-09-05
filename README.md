@@ -8,9 +8,6 @@ This is a tribute page for Cristiano Ronaldo, one of the greatest footballers in
 To get started, clone the repository and open the project in your preferred code editor.
 
 ```
-git clone https://github.com/your-username/cristiano-ronaldo-tribute-page.git
-cd cristiano-ronaldo-tribute-page
-```
 
 ## HTML
 
